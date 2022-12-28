@@ -1,7 +1,8 @@
 import React from "react";
+import { UseMemoPage } from "../../src/useMemo";
 
 const index = () => {
-  return <div>index</div>;
+  return <UseMemoPage />;
 };
 
 export default index;
